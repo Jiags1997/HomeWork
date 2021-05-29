@@ -1,0 +1,4 @@
+网站名字：Vanilia
+文件：Vanilia 就是项目文件，使用WebStrom 软件打开即可运行。
+打开文件步骤: 打开WebStrom->点击file->点击Open->找到Vanilia 打开。
+注意：遇到问题及时联系我
